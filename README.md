@@ -2,8 +2,12 @@
 https://ahh.epizy.com
 14, programmer, video editor
 discord - ahh#0628
-IDEs i use - Visual Studio Code, IntelIJ IDEA, JetBrains Rider
-
+# IDEs i use 
+Visual Studio Code, IntelIJ IDEA, JetBrains Rider
+# Languages
+python, java, html, css
+# Why do i exist?
+idk
 
 
 <!---
